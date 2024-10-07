@@ -6,13 +6,11 @@ marp: true
 
 <!-- _class: lead -->
 
-# How to
-
 # Start a Co-op
 
-![bg left:40% 80%](https://marp.app/assets/marp.svg)
+![bg left:45% 60%](assets/logo.svg)
 
-History, Experience, Action
+History, Experience, Practice
 
 <https://coopguide.com>
 
@@ -60,10 +58,11 @@ For the audience:
 
 # Cooperative History: Part 1
 
-## The UK Goes Broke
+## Austerity Strikes Back
 
-When the UK went bankrupt during the Napoleonic Wars,
-the existing welfare system fell prey to austerity
+When the UK went bankrupt during the
+Napoleonic Wars, the existing welfare
+system fell prey to austerity.
 
 <!--
 One of the most popular theories among the rich was Malthusianism:
@@ -81,8 +80,10 @@ substituting philanthropy for the poor laws (welfare), which he felt
 
 ## Utopianism
 
-Robert Owen, a Welsh cotton baron, proposed self-governing workhouses
-(“villages of co-operation”) which provided wages and a safety net
+Robert Owen, a Welsh cotton industrialist,
+proposed self-governing workhouses
+(“villages of co-operation”) which provided
+wages and a safety net.
 
 ---
 
@@ -90,8 +91,10 @@ Robert Owen, a Welsh cotton baron, proposed self-governing workhouses
 
 ## Socialism
 
-The Rochdale Pioneers, a mix of Chartist and Owenite activists, workers, and
-relatively well-paid artisans, start a successful series of businesses
+The Rochdale Pioneers, a mix of Chartist and
+Owenite activists, workers, and relatively
+well-paid artisans, start a successful series
+of businesses.
 
 ---
 
@@ -99,9 +102,10 @@ relatively well-paid artisans, start a successful series of businesses
 
 ## The Modern Era
 
-The USDA heavily promoted co-ops in the 1920s, communities  of color used co-ops
-to gain food access in the Jim Crow era, and the natural foods movement adopted
-it in the 1970s
+The USDA heavily promoted co-ops in the 1920s,
+communities  of color used co-ops to gain food
+access in the Jim Crow era, and the natural
+foods movement adopted it in the 1970s.
 
 ---
 
@@ -132,16 +136,16 @@ Its members are the investors, and must both buy in and participate
 
 # Experience Report: Jeff Parr
 
-> For any co-op, you’ll be asking your members, who may not know about business,
+> You’ll be asking members who may not know about business
 > for their input.
 >
-> This requires fluency in various disciplines: accounting, reviewing at
+> This requires fluency in many disciplines: accounting, reviewing
 > contracts, ... all the concerns that exist in business.
 >
-> Co-op developers, vendors, and technical assistance from groups like USWFC
+> Developers, vendors, and technical assistance from USWFC
 > can help build that familiarity.
 >
-> Lacking a business management background makes those topics uncomfortable.
+> Lacking business fluency can make these topics uncomfortable.
 > The group's success lies in how it deals with that.
 
 ---
