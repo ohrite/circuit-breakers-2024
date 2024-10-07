@@ -1,0 +1,62 @@
+name: publish
+
+on:
+  push:
+    branches:
+      - main
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Ensure build/
+        run: mkdir build/
+
+      - name: Copy assets
+        run: if [[ -d assets ]]; then cp -R assets build/assets; fi
+
+      - name: Setup Pages
+        id: pages
+        uses: actions/configure-pages@v5
+
+      - name: Build Marp
+        uses: docker://marpteam/marp-cli:v3.4.0
+        with:
+          args: presentation.md -o build/index.html
+        env:
+          MARP_USER: root:root
+
+      - name: Build PDF
+        uses: docker://marpteam/marp-cli:v3.4.0
+        with:
+          args: presentation.md --allow-local-files -o build/presentation.pdf
+        env:
+          MARP_USER: root:root
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./build/
+
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
