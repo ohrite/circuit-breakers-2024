@@ -6,13 +6,15 @@ marp: true
 
 <!-- _class: lead -->
 
-# Start a Co-op
+# Let's Start a Co-op
 
 ![bg left:45% 60%](assets/logo.svg)
 
-History, Experience, Practice
+A History and Practical Guidance
 
 <https://coopguide.com>
+
+[Download PDF](https://ohrite.github.io/circuit-breakers-2024/presentation.pdf)
 
 ---
 
