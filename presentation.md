@@ -4,25 +4,31 @@ paginate: true
 marp: true
 ---
 
-<!-- _class: lead -->
+<!--
+_class: lead
+-->
 
 # Let's Start a Co-op
 
-![bg left:45% 60%](assets/logo.svg)
+Practical Guidance and Toolkit
 
-A History and Practical Guidance
+<https://coopguide.org>
 
-<https://coopguide.com>
-
-[Download PDF](https://ohrite.github.io/circuit-breakers-2024/presentation.pdf)
+[Download PDF](https://coopguide.org/presentation.pdf)
 
 ---
 
 # Solidarity
 
-<!--
-Land acknowledgement
--->
+We meet today on the unceded territory of the Ramaytush Ohlone.
+We affirm their sovereign rights as First Peoples. The process of
+colonization is ongoing in the Bay Area.
+
+In solidarity, cooperatives seek to build an alternative economic
+and social structure that opposes colonialism.
+
+You may express individual solidarity by paying the Land Tax:
+https://www.ramaytush.org/donate.html
 
 ---
 
@@ -36,6 +42,14 @@ Land acknowledgement
 1. Audience Questions
 
 ---
+<!--
+_backgroundImage: url("assets/mov-office.jpg")
+_paginate: false
+-->
+
+![width:9cm](assets/logo.svg)
+
+---
 
 # Ministry of Velocity
 
@@ -43,11 +57,16 @@ Land acknowledgement
 - Software and training services
 - Booked almost $13m in sales
 - Mostly public sector / NPO
-- Converted in 2022/23
+- Co-op conversion in 2022/23
 
 ---
 
-# Cooperatives
+<!--
+_class: lead
+_paginate: false
+-->
+
+# Familiarity
 
 <!--
 For the audience:
@@ -58,15 +77,42 @@ For the audience:
 
 ---
 
-# Cooperative History: Part 1
+<!--
+_class:
+  - invert
+  - lead
+_paginate: false
+-->
 
-## Austerity Strikes Back
-
-When the UK went bankrupt during the
-Napoleonic Wars, the existing welfare
-system fell prey to austerity.
+# Cooperative History
 
 <!--
+Picture of the Rochdale co-op store
+Early cooperatives existed in 18th century Scotland
+-->
+
+---
+
+<!--
+_class:
+ - invert
+ - lead
+-->
+
+# Class War
+
+![bg](assets/seven-dials-gustave-dore.jpg)
+
+<!--
+Like so much of history, cooperatives find their origin in class struggle,
+starting in the era of Dickens.
+
+In 1815, the British government's debt reaches a high of £1b
+at the end of the Napoleonic Wars.
+
+The 1834 Poor Laws created workhouses where homeless Britons
+were housed, fed, and clothed. Labor was compulsory.
+
 One of the most popular theories among the rich was Malthusianism:
 a country’s population increases faster than its resources allow,
 which creates poverty
@@ -78,77 +124,122 @@ substituting philanthropy for the poor laws (welfare), which he felt
 
 ---
 
-# Cooperative History: Part 2
+<!--
+_backgroundImage: url(assets/New_Lanark_buildings_2009.jpg)
+_paginate: false
+_class:
+  - invert
+  - lead
+_footer: mrpbps https://www.flickr.com/people/25413523@N08
+-->
 
-## Utopianism
+# Owenism
 
-Robert Owen, a Welsh cotton industrialist,
-proposed self-governing workhouses
-(“villages of co-operation”) which provided
-wages and a safety net.
+<!--
+Picture of New Lanark
+
+Robert Owen was made manager of New Lanark by his father-in-law
+
+Owen didn't like the material conditions workers faced, and adopted utopianism
+
+Owen's ideas grew into self-governing “villages of co-operation”
+-->
 
 ---
 
-# Cooperative History: Part 3
+<!--
+_backgroundImage: url(assets/rochdale-museum.jpg)
+_class:
+  - invert
+  - lead
+_footer: diamond geezer https://www.flickr.com/photos/dgeezer/23746670698
+-->
 
-## Socialism
-
-The Rochdale Pioneers, a mix of Chartist and
-Owenite activists, workers, and relatively
-well-paid artisans, start a successful series
-of businesses.
+# Rochdale
+<!--
+The Rochdale Pioneers, a mix of Chartist and Owenite activists, workers, and
+well-paid artisans, start a successful series of businesses.
+-->
 
 ---
 
-# Cooperative History: Part 4
+<!--
+_backgroundImage: url(assets/cooperation-jackson.jpg)
+_class:
+  - invert
+  - lead
+_footer: Cooperation Jackson https://cooperationjackson.org/announcementsblog/buildingclassconsciouscoops
+-->
 
-## The Modern Era
+# Here and Now
 
+<!--
 The USDA heavily promoted co-ops in the 1920s,
 communities  of color used co-ops to gain food
 access in the Jim Crow era, and the natural
 foods movement adopted it in the 1970s.
 
----
+Today's cooperatives run the gamut between large enterprises like Mondragon,
+small local businesses like a food co-op in your area, and social enterprises
 
-# Principles
-
-1. Voluntary and Open Membership
-2. Democratic Member Control
-3. Member Economic Participation
-4. Autonomy and Independence
-5. Education, Training, and Eduction
-6. Co-operation among Co-operatives
-7. Concern for Community
+Cooperation Jackson is an example of a politically-active enterprise
+-->
 
 ---
 
-# Economic Participation
+# Definition
+
+![bg right:50%](assets/03-the-seven-cooperative-principles.png)
+
+A cooperative is an _autonomous_ __association__ of persons united voluntarily to meet their common economic, social and cultural needs and aspirations through a _jointly-owned_ and _democratically-controlled_ __enterprise__.
+
+<!--
+The dual nature of cooperatives is on display here:
+
+A cooperative is an association of people, which is a social formation
+
+It's also an enterprise, which is an economic formation
+
+A cooperative is a business enterprise, first and foremost
+
+Its members are the investors, and must both buy in and participate
+-->
+
+---
+
+<!--
+_class:
+  - invert
+  - lead
+_paginate: false
+-->
+
+# The Enterprise
 
 <!--
 For the audience:
 How many of you receive a form of profit sharing at work?
 -->
 
-A cooperative is a business enterprise, first and foremost
-
-Its members are the investors, and must both buy in and participate
-
 ---
 
-# Experience Report: Jeff Parr
+<!--
+_class:
+  - lead
+_paginate: false
+-->
 
-> You’ll be asking members who may not know about business
-> for their input.
+# Jeff Parr
+
+![bg left:40%](assets/jeff-parr.jpg)
+
+> Co-ops require knowing business: accounting, reviewing contracts...
+> all the concerns that exist.
 >
-> This requires fluency in many disciplines: accounting, reviewing
-> contracts, ... all the concerns that exist in business.
+> Missing that knowledge can make these topics uncomfortable. The
+> co-op depends on its response.
 >
-> Developers, vendors, and technical assistance from USWFC
-> can help build that familiarity.
->
-> Lacking business fluency can make these topics uncomfortable.
-> The group's success lies in how it deals with that.
+> Co-op developers, vendors, and technical assistance from peers can help build that knowledge.
 
 ---
 
@@ -158,15 +249,38 @@ Its members are the investors, and must both buy in and participate
   - Sell a commodity, such as a good or service
   - Pay laborers a wage less than the sale price
   - `c + NL + SL = W`
+
+---
+<!--
+_footer: Marilyn Scholl https://www.cdsus.coop/
+_paginate: false
+-->
+
+![bg fit](assets/img1.png)
+
+<!--
+# Allocating Patronage
 - Surplus reinvested in capital and management
 - Traditionally, owners keep the remainder ("profit")
 - In co-ops, the surplus is allocated to members as __Patronage__
+-->
 
 ---
 
-# Patronage
+<!--
+_class:
+  - invert
+  - lead
+_paginate: false
+-->
+
+# The Association
 
 ---
+
+<!--
+_footer: USFWC
+-->
 
 # Workplace Democracy
 
@@ -180,42 +294,41 @@ There are two types of activity when operating a business
 - *Governance*: setting policies to steer the ship
 - *Management*: implementing policies and fulfilling administrative tasks
 
-Source: USFWC
-
 ---
 
-# Experience report: Rae B
+# Experience report: Rae Bonfanti
 
 ---
+<!--
+_footer: USFWC
+-->
 
-# Democratic Structures (1)
-
-## Collectives
+# Collectives
 
 - Every member has equal governance power
 - All members are on the board
 - Collective or flat management structures
 
-Source: USFWC
-
 ---
 
-# Democratic Structures (2)
+<!--
+_footer: USFWC
+-->
 
-## Sociocracy
+# Sociocracy
 
 - Governance is performed by circles or committees for specific topics
 - Can include a governance circle
 - Management is performed by circles
 - Decisions are made via modified consensus
 
-Source: USFWC
-
 ---
 
-# Democratic Structures (3)
+<!--
+_footer: USFWC
+-->
 
-## Elected Board with Shared Governance
+# Elected Board with Shared Governance
 
 - Members elect a board of directors
 - Members retain a form of membership-wide governance
@@ -225,15 +338,19 @@ Source: USFWC
 
 ---
 
-# Democratic Structures (4)
+<!--
+_footer: USFWC
+-->
 
-## Elected Board
+# Elected Board
 
 - Members elect a board of directors
 
-Source: USFWC
-
 ---
+
+<!--
+_footer: McKenzie Jones
+-->
 
 # Breakout Sessions
 
@@ -243,8 +360,6 @@ Points of Discussion
 - What checks and balances can you create to ensure power is shared among
   governing and managing bodies?
 - How will you ensure all members of the co-op have representation?
-
-Source: McKenzie Jones
 
 ---
 
