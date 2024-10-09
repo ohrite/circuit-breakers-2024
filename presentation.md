@@ -28,7 +28,7 @@ In solidarity, cooperatives seek to build an alternative economic
 and social structure that opposes colonialism.
 
 You may express individual solidarity by paying the Land Tax:
-https://www.ramaytush.org/donate.html
+<https://www.ramaytush.org/donate.html>
 
 ---
 
@@ -191,7 +191,11 @@ Cooperation Jackson is an example of a politically-active enterprise
 
 ![bg right:50%](assets/03-the-seven-cooperative-principles.png)
 
-A cooperative is an _autonomous_ __association__ of persons united voluntarily to meet their common economic, social and cultural needs and aspirations through a _jointly-owned_ and _democratically-controlled_ __enterprise__.
+A cooperative is an _autonomous_ __association__ of
+persons united voluntarily to meet their common
+economic, social and cultural needs and aspirations
+through a _jointly-owned_ and _democratically-controlled_
+__enterprise__.
 
 <!--
 The dual nature of cooperatives is on display here:
@@ -239,7 +243,8 @@ _paginate: false
 > Missing that knowledge can make these topics uncomfortable. The
 > co-op depends on its response.
 >
-> Co-op developers, vendors, and technical assistance from peers can help build that knowledge.
+> Co-op developers, vendors, and technical assistance from peers
+> can help build that knowledge.
 
 ---
 
@@ -256,7 +261,7 @@ _footer: Marilyn Scholl https://www.cdsus.coop/
 _paginate: false
 -->
 
-![bg fit](assets/img1.png)
+![bg fit](assets/patronage.svg)
 
 <!--
 # Allocating Patronage
@@ -291,12 +296,57 @@ When was the last time you made a decision that affected your workplace?
 
 There are two types of activity when operating a business
 
-- *Governance*: setting policies to steer the ship
-- *Management*: implementing policies and fulfilling administrative tasks
+- _Governance_: setting policies to steer the ship
+- _Management_: implementing policies and fulfilling administrative tasks
 
 ---
 
-# Experience report: Rae Bonfanti
+# Rae Bonfanti
+
+![bg sepia:0.3 left:30%](assets/rae-bonfanti.png)
+
+> You might ask how much time to expect to spend on co-op duties.
+>
+> There's no getting around it. If you aren't
+> handling business today, taking on co-op
+> tasks will be a transition.
+>
+> We managed our time with committees,
+> where a smaller set of members handles
+> one concern, then report to the board.
+
+<!-- it's a reasonable question for prospective co-op members
+to ask how much time they're expected to spend
+
+especially if you're coming from design or engineering,
+you'll spend more time on organizational matters
+
+there will be an adjustment period
+
+you'll participate in governance and management that will
+impact your work
+
+there's no getting around this, and the smaller the co-op
+the more work there is to do
+
+a committee is a group of members who specialize in one
+area of management concerns, like finance or HR
+
+I experienced this via sociocracy at MoV, this allows a
+small set of people to implement policy
+
+committee members have a duty to educate the larger body
+so they can make informed governance decisions
+
+members don't need to know everything or have a lot
+of knowledge in order to make decision
+
+committees at MoV were quite small, with an expert as
+chair and a learner in an administrative role
+
+this helps develop skills and capacity inside the co-op
+
+a third party can fulfill that expert capacity -->
 
 ---
 <!--
