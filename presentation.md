@@ -2,6 +2,14 @@
 theme: gaia
 paginate: true
 marp: true
+style: |
+  h1#class-war,
+  h1#owenism,
+  h1#rochdale,
+  h1#co-optation,
+  h1#here-and-now {
+    text-shadow: rgba(0, 0, 0, 0.6) 0 0 60px, #000 0 0 10px, #000 0 0 2px;
+  }
 ---
 
 <!--
@@ -148,11 +156,11 @@ _footer: mrpbps https://www.flickr.com/people/25413523@N08
 <!--
 Picture of New Lanark, Scotland
 
-Robert Owen was made manager of New Lanark by his father-in-law
+Robert Owen bought the cotton mill at New Lanark by his father-in-law David Dale in 1799. Owen didn't like the material conditions workers faced, and developed his own brand of utopianism socialism, and his ideas grew into public talks about self-governing “villages of co-operation”
 
-Owen didn't like the material conditions workers faced, and adopted utopianism
+In good conscience, I can't continue without acknowledging that Owen's wealth and utopian vision were built on the cotton industry
 
-Owen's ideas grew into self-governing “villages of co-operation”
+This means this early utopian vision is directly connected to industrialized chattel slavery in the United States, the damage of which is born to this day by Black and indigenous people in this country
 -->
 
 ---
@@ -166,11 +174,37 @@ _footer: diamond geezer https://www.flickr.com/photos/dgeezer/23746670698
 -->
 
 # Rochdale
+
 <!--
-The Rochdale Pioneers, a mix of Chartist and Owenite activists, workers, and
-well-paid artisans, start a successful series of businesses.
+Owen's talks inspired The Rochdale Pioneers.
+
+They started a successful series of businesses, starting with this store in Rochdale, which is still a location you can visit today, although the cooperative has moved to nearby Manchester.
+
+The Pioneers were a mix of Chartist and Owenite activists, workers, and well-paid artisans.
+
+Their model was wildly successful and hundreds of small cooperative stores popped up around northern England within a few years
 -->
 
+---
+
+<!--
+_class:
+  - invert
+  - lead
+_paginate: false
+_footer:
+  Arch Walker and Eisen https://danismm.tumblr.com/post/176046139629/sunkist-building-los-angeles-1936-arch-walker
+-->
+
+# Co-optation
+
+![bg](assets/sunkist-building.jpg)
+
+<!--
+This is a 1936 picture of the Sunkist building, headquarters of the California Fruit Growers Association, who established an alleged citrus monopoly in California
+
+The USDA heavily promoted co-ops in the 1920s. With the passage of the Capper-Volstead Act, cooperatives became an easy way to avoid antitrust laws.
+-->
 ---
 
 <!--
@@ -184,15 +218,9 @@ _footer: Cooperation Jackson https://cooperationjackson.org/announcementsblog/bu
 # Here and Now
 
 <!--
-The USDA heavily promoted co-ops in the 1920s,
-communities  of color used co-ops to gain food
-access in the Jim Crow era, and the natural
-foods movement adopted it in the 1970s.
+Communities of color used co-ops to gain food access in the Jim Crow era and the natural foods movement adopted this strategy in the 1970s.
 
-Today's cooperatives run the gamut between large enterprises like Mondragon,
-small local businesses like a food co-op in your area, and social enterprises
-
-Cooperation Jackson is an example of a politically-active enterprise
+This picture, taken in 2016, shows some members of Cooperation Jackson, an example of a politically-active enterprise more in line with the original political and social movement of the Rochdale Pioneers
 -->
 
 ---
@@ -201,22 +229,16 @@ Cooperation Jackson is an example of a politically-active enterprise
 
 ![bg right:50%](assets/03-the-seven-cooperative-principles.png)
 
-A cooperative is an _autonomous_ __association__ of
+A cooperative is an autonomous __association__ of
 persons united voluntarily to meet their common
 economic, social and cultural needs and aspirations
-through a _jointly-owned_ and _democratically-controlled_
+through a jointly-owned and democratically-controlled
 __enterprise__.
 
 <!--
-The dual nature of cooperatives is on display here:
+Historian, cooperative scholar, and Thompson Rivers University president Dr. Brett Fairbairn argues that cooperatives have a dual nature as an association and an enterprise.
 
-A cooperative is an association of people, which is a social formation
-
-It's also an enterprise, which is an economic formation
-
-A cooperative is a business enterprise, first and foremost
-
-Its members are the investors, and must both buy in and participate
+While the enterprise aspect of cooperatives is similar to any business, the association aspect is a unique social formation that allows cooperatives to transcend profit-above-all logic and focus its energy on the community.
 -->
 
 ---
@@ -231,15 +253,33 @@ _paginate: false
 # The Enterprise
 
 <!--
+A co-op is a business, and it's important to explore what that means.
+
 For the audience:
-How many of you receive a form of profit sharing at work?
+How many of you have started or run a business before?
 -->
 
 ---
 
 <!--
-_class:
-  - lead
+_class: lead
+-->
+
+# Starting Up
+
+<!--
+If you're coming into this room and don't know what to build, I recommend the Lean Startup book by Eric Ries, even if you're going to be offering hourly consulting, in fact especially then
+
+As your co-op starts up, it looks like everything else: recruiting founders, finding your first sale, doing a little planning, and finding money
+
+If you find money, you'll incorporate, and you'll need to determine membership.
+
+This is the first point of difference: your team is creating a power structure. Let's hear some wisdom from a co-op member at MoV
+-->
+---
+
+<!--
+_class: lead
 _paginate: false
 -->
 
@@ -254,7 +294,7 @@ _paginate: false
 > Co-op developers, vendors, and technical assistance from peers can help build that knowledge.
 
 <!--
-This is Jeff Parr who's been at Ministry of Velocity since 2015. Jeff's an entrepreneur with a few decades of experience as a founder
+This is Jeff Parr, who's been at Ministry of Velocity since 2015. Jeff's an entrepreneur with a few decades of experience as a founder
 
 Jeff's insight is important: the discomfort he's speaking to here is a power dynamic on your team, it exists today and it's the first hump for your group
 
@@ -263,17 +303,12 @@ Here's a really important insight that speaks to Principle 5, education: you can
 
 ---
 
-# Co-op Economics
+<!-- _class: lead -->
 
-- Business economics
-  - Sell a commodity, such as a good or service
-  - Pay laborers a wage less than the sale price
-- Operations overhead
-- Traditional company vs. co-op
-  - Owners benefit in both cases
+# Distributing Income
 
 <!--
-  `c + NL + SL = W`
+Once you've decided who's a member, and how they enter the company, you'll need to have a conversation about how to distribute that income.
 -->
 
 ---
@@ -285,10 +320,13 @@ _paginate: false
 ![bg fit](assets/patronage.svg)
 
 <!--
-# Allocating Patronage
-- Surplus reinvested in capital and management
-- Traditionally, owners keep the remainder ("profit")
-- In co-ops, the surplus is allocated to members as __Patronage__
+Let's start from the top by imagining a worker-owned hardware store.
+
+The hardware store makes $10,000 in a week, and the members collectively worked 100 hours.
+
+The members also made a set of paid gardening videos, and that brings in $100 in a week.
+
+The $100 from the videos may be retained by the cooperative, perhaps to reinvest it in the company.
 -->
 
 ---
@@ -320,13 +358,9 @@ _paginate: false
 
 > You might ask how much time to expect to spend on co-op duties.
 >
-> There's no getting around it. If you aren't
-> handling business today, taking on co-op
-> tasks will be a transition.
+> There's no getting around it. If you aren't handling business today, taking on co-op tasks will be a transition.
 >
-> We managed our time with committees,
-> where a smaller set of members handles
-> one concern, then report to the board.
+> We managed our time with committees, where a smaller set of members handles one concern, then report to the board.
 
 <!-- it's a reasonable question for prospective co-op members
 to ask how much time they're expected to spend
