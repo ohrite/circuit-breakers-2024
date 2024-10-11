@@ -5,41 +5,44 @@ marp: true
 ---
 
 <!--
-_class: lead
+_class:
+  - lead
+  - invert
+_paginate: false
 -->
 
-# Let's Start a Co-op
+# Steal This Co-op Talk
 
-Practical Guidance and Toolkit
+History, Discussion, and Toolkit
 
 <https://coopguide.org>
 
-[Download PDF](https://coopguide.org/presentation.pdf)
+<!--
+Thank you to Tech Workers Coalition for putting Circuit Breakers 2024 together, hope this is successful so we can see a 2025 edition
+
+Thank you to all of you for being here, we've got so many important sessions happening this weekend, hopefully we can make a big impact
+-->
 
 ---
 
 # Solidarity
 
-We meet today on the unceded territory of the Ramaytush Ohlone.
-We affirm their sovereign rights as First Peoples. The process of
-colonization is ongoing in the Bay Area.
+We meet today on the unceded territory of the Ramaytush Ohlone. We affirm their sovereign rights as First Peoples. The process of colonization is ongoing in the Bay Area.
 
-In solidarity, cooperatives seek to build an alternative economic
-and social structure that opposes colonialism.
+Cooperatives seek to build an alternative economic and social structure that bring communities together in solidarity.
 
-You may express individual solidarity by paying the Land Tax:
-https://www.ramaytush.org/donate.html
+You may individually express solidarity by paying the Yakult (Village) Land Tax: <https://www.ramaytush.org/donate.html>
 
 ---
 
 # Agenda
 
-1. Definition
 1. History
+1. Definition
 1. Patronage
 1. Democracy
 1. Workshop
-1. Audience Questions
+1. Question Time
 
 ---
 <!--
@@ -47,7 +50,7 @@ _backgroundImage: url("assets/mov-office.jpg")
 _paginate: false
 -->
 
-![width:9cm](assets/logo.svg)
+![width:10cm](assets/logo.svg)
 
 ---
 
@@ -57,7 +60,20 @@ _paginate: false
 - Software and training services
 - Booked almost $13m in sales
 - Mostly public sector / NPO
-- Co-op conversion in 2022/23
+- Investigated co-op conversion in 2018
+- Conversion in 2022/23
+
+<!--
+In 2013, I co-founded Ministry of Velocity with a friend, and we freelanced underneath that label as a partnership
+
+My co-founder left in 2014, and I hired folks that I met through volunteering, client work, and in community
+
+We mainly do custom software, design, and project management in the public and nonprofit sector, and we've booked about $13m in sales so far
+
+In 2018, a couple dozen people worked at MoV, and I started investigating a co-op conversion with Project Equity
+
+In 2022, we formally began the process of conversion, and by 2023 MoV was a cooperative
+-->
 
 ---
 
@@ -87,8 +103,9 @@ _paginate: false
 # Cooperative History
 
 <!--
-Picture of the Rochdale co-op store
-Early cooperatives existed in 18th century Scotland
+Cooperatives are a concept more than a specific legal vehicle: a bunch of people pool their resources together, participate in trade, and the members receive a benefit
+
+At least as of a couple years ago, the earliest record of a cooperative is the Fenwick Weavers' Society 18th century Scotland
 -->
 
 ---
@@ -104,22 +121,15 @@ _class:
 ![bg](assets/seven-dials-gustave-dore.jpg)
 
 <!--
-Like so much of history, cooperatives find their origin in class struggle,
-starting in the era of Dickens.
+The cooperative mass movement, however, is born in class struggle during the era of Dickens' Oliver Twist.
 
-In 1815, the British government's debt reaches a high of £1b
-at the end of the Napoleonic Wars.
+In 1815, the British government's debt reaches a high of £1b at the end of the Napoleonic Wars.
 
-The 1834 Poor Laws created workhouses where homeless Britons
-were housed, fed, and clothed. Labor was compulsory.
+The 1834 Poor Laws created workhouses where homeless Britons were housed, fed, and clothed. Labor was compulsory. Activists at the time called workhouses "Jails for the Poor"
 
-One of the most popular theories among the rich was Malthusianism:
-a country’s population increases faster than its resources allow,
-which creates poverty
+One of the most popular theories among the rich was Malthusianism: a country’s population increases faster than its resources allow, which creates poverty
 
-Malthus proposed a lower birth rate and a higher mortality rate by
-substituting philanthropy for the poor laws (welfare), which he felt
-“create the poor which they maintain”
+Malthus proposed a lower birth rate and a higher mortality rate by substituting philanthropy for the poor laws (welfare), which he felt “create the poor which they maintain”
 -->
 
 ---
@@ -136,7 +146,7 @@ _footer: mrpbps https://www.flickr.com/people/25413523@N08
 # Owenism
 
 <!--
-Picture of New Lanark
+Picture of New Lanark, Scotland
 
 Robert Owen was made manager of New Lanark by his father-in-law
 
@@ -191,7 +201,11 @@ Cooperation Jackson is an example of a politically-active enterprise
 
 ![bg right:50%](assets/03-the-seven-cooperative-principles.png)
 
-A cooperative is an _autonomous_ __association__ of persons united voluntarily to meet their common economic, social and cultural needs and aspirations through a _jointly-owned_ and _democratically-controlled_ __enterprise__.
+A cooperative is an _autonomous_ __association__ of
+persons united voluntarily to meet their common
+economic, social and cultural needs and aspirations
+through a _jointly-owned_ and _democratically-controlled_
+__enterprise__.
 
 <!--
 The dual nature of cooperatives is on display here:
@@ -233,13 +247,19 @@ _paginate: false
 
 ![bg left:40%](assets/jeff-parr.jpg)
 
-> Co-ops require knowing business: accounting, reviewing contracts...
-> all the concerns that exist.
+> Co-ops require knowing business: accounting, reviewing contracts... all the business stuff.
 >
-> Missing that knowledge can make these topics uncomfortable. The
-> co-op depends on its response.
+> Missing that knowledge can make these topics uncomfortable. Your co-op lives or dies based on your how you respond as a group.
 >
 > Co-op developers, vendors, and technical assistance from peers can help build that knowledge.
+
+<!--
+This is Jeff Parr who's been at Ministry of Velocity since 2015. Jeff's an entrepreneur with a few decades of experience as a founder
+
+Jeff's insight is important: the discomfort he's speaking to here is a power dynamic on your team, it exists today and it's the first hump for your group
+
+Here's a really important insight that speaks to Principle 5, education: you can pay to get skills or an expert in the room, and this can save your group.
+-->
 
 ---
 
@@ -248,7 +268,13 @@ _paginate: false
 - Business economics
   - Sell a commodity, such as a good or service
   - Pay laborers a wage less than the sale price
-  - `c + NL + SL = W`
+- Operations overhead
+- Traditional company vs. co-op
+  - Owners benefit in both cases
+
+<!--
+  `c + NL + SL = W`
+-->
 
 ---
 <!--
@@ -256,7 +282,7 @@ _footer: Marilyn Scholl https://www.cdsus.coop/
 _paginate: false
 -->
 
-![bg fit](assets/img1.png)
+![bg fit](assets/patronage.svg)
 
 <!--
 # Allocating Patronage
@@ -264,17 +290,6 @@ _paginate: false
 - Traditionally, owners keep the remainder ("profit")
 - In co-ops, the surplus is allocated to members as __Patronage__
 -->
-
----
-
-<!--
-_class:
-  - invert
-  - lead
-_paginate: false
--->
-
-# The Association
 
 ---
 
@@ -291,16 +306,64 @@ When was the last time you made a decision that affected your workplace?
 
 There are two types of activity when operating a business
 
-- *Governance*: setting policies to steer the ship
-- *Management*: implementing policies and fulfilling administrative tasks
-
----
-
-# Experience report: Rae Bonfanti
+- _Governance_: setting policies to steer the ship
+- _Management_: implementing policies and fulfilling administrative tasks
 
 ---
 <!--
-_footer: USFWC
+_class: lead
+_paginate: false
+-->
+# Rae Bonfanti
+
+![bg sepia:0.15 left:30%](assets/rae-bonfanti.png)
+
+> You might ask how much time to expect to spend on co-op duties.
+>
+> There's no getting around it. If you aren't
+> handling business today, taking on co-op
+> tasks will be a transition.
+>
+> We managed our time with committees,
+> where a smaller set of members handles
+> one concern, then report to the board.
+
+<!-- it's a reasonable question for prospective co-op members
+to ask how much time they're expected to spend
+
+especially if you're coming from design or engineering,
+you'll spend more time on organizational matters
+
+there will be an adjustment period
+
+you'll participate in governance and management that will
+impact your work
+
+there's no getting around this, and the smaller the co-op
+the more work there is to do
+
+a committee is a group of members who specialize in one
+area of management concerns, like finance or HR
+
+I experienced this via sociocracy at MoV, this allows a
+small set of people to implement policy
+
+committee members have a duty to educate the larger body
+so they can make informed governance decisions
+
+members don't need to know everything or have a lot
+of knowledge in order to make decision
+
+committees at MoV were quite small, with an expert as
+chair and a learner in an administrative role
+
+this helps develop skills and capacity inside the co-op
+
+a third party can fulfill that expert capacity -->
+
+---
+<!--
+_footer: USFWC https://prezi.com/view/fRM13gLGqeieZmKcmMR6/
 -->
 
 # Collectives
@@ -312,7 +375,7 @@ _footer: USFWC
 ---
 
 <!--
-_footer: USFWC
+_footer: USFWC https://prezi.com/view/fRM13gLGqeieZmKcmMR6/
 -->
 
 # Sociocracy
@@ -325,7 +388,7 @@ _footer: USFWC
 ---
 
 <!--
-_footer: USFWC
+_footer: USFWC https://prezi.com/view/fRM13gLGqeieZmKcmMR6/
 -->
 
 # Elected Board with Shared Governance
@@ -339,42 +402,111 @@ _footer: USFWC
 ---
 
 <!--
-_footer: USFWC
+_footer: USFWC https://prezi.com/view/fRM13gLGqeieZmKcmMR6/
 -->
 
 # Elected Board
 
 - Members elect a board of directors
+- Members have little governance power after election
+- Members ratify annual member meetings
+- CEO and managers accountable to membership
+- Majority rule (i.e. Robert's Rules of Order)
 
 ---
 
 <!--
-_footer: McKenzie Jones
+_footer: McKenzie Jones https://www.linkedin.com/in/mckenzie-jones-2325488/
 -->
 
 # Breakout Sessions
 
-Points of Discussion
-
 - Is this a board or management decision?
-- What checks and balances can you create to ensure power is shared among
-  governing and managing bodies?
-- How will you ensure all members of the co-op have representation?
+- What checks and balances will ensure power is shared?
+- How will all members of the co-op have representation?
 
 ---
+
+<!--
+_class:
+ - lead
+ - invert
+-->
 
 # Report Back
 
+What were your decisions?
+
+Who makes those decisions?
+
+How is power shared?
+
 ---
+
+<!--
+_class:
+ - lead
+-->
 
 # Questions and Answers
 
 ---
 
+# Community Connections
+
+- US Federation of Worker Cooperatives
+  <https://www.usworker.coop>
+
+- Democracy at Work Institute
+  <https://institute.coop>
+
+- Agaric Show and Tell
+  <https://agaric.coop/show-and-tell>
+
+- Network of Bay Area Worker Cooperatives (NoBAWC)
+  <https://nobawc.org>
+
+---
+
+<!--
+_class:
+ - lead
+ - invert
+_paginate: false
+-->
+
 # Thank you
 
-## Doc Ritezel
+![bg right:30%](assets/doc-ritezel.jpg)
 
-### <doc@minifast.co>
+## <doc@minifast.co>
 
-#### @ohrite
+### @ohrite
+
+---
+
+# Skill Building
+
+- Democratic Management: A Practical Guide
+  [Democracy at Work Institute](https://democracy.institute.coop/democratic-management-practical-guide-managers-and-others) · [PDF](assets/20230903-democratic-management-guide.pdf)
+
+- Co-op Structure and Decision Making
+  [US Federation of Worker Cooperatives](https://www.usworker.coop/blog/foundations-of-workplace-democracy-co-op-structure-and-decision-making/) · [PDF](assets/20241011-structure-and-decision-making.pdf)
+
+- Introduction to Sociocracy
+  [Sociocracy for All](https://www.sociocracyforall.org/content/) · [PDF](assets/20241011-sociocracy-summary.pdf)
+
+---
+
+# Workbook
+
+- [This Slide Deck](https://coopguide.org/presentation.pdf)
+
+- Membership and Trial Period
+  [Excel](assets/20241011-membership-tool-template.xlsx) · [Google Docs](https://docs.google.com/spreadsheets/d/11hNVvu2uucvnax5U7DlzmMgX1Eo6A2HHlBAhtLPKneo/edit)
+
+- Governance Matrix
+  [Excel](assets/20241011-governance-matrix-template.xlsx) · [Google Docs](https://docs.google.com/spreadsheets/d/19RTFtleL3KdfT9NuKDtRLoPHDHI92hrJ679WisQHhWM/edit)
+
+- Operating Agreement
+  [Excel](assets/20241011-operating-agreement-template.xlsx) · [Google Docs](https://docs.google.com/spreadsheets/d/1I8LwJNXA-D2cBxdVCq-gW_HeA3aSXjOXlYF2LHanT5c/edit)
