@@ -265,17 +265,18 @@ How many of you have started or run a business before?
 _class: lead
 -->
 
-# Starting Up
+# Power
 
 <!--
-If you're coming into this room and don't know what to build, I recommend the Lean Startup book by Eric Ries, even if you're going to be offering hourly consulting, in fact especially then
+If you're coming into this room and don't know what to build, even if you're going to be offering hourly consulting, I recommend the Lean Startup book by Eric Ries
 
-As your co-op starts up, it looks like everything else: recruiting founders, finding your first sale, doing a little planning, and finding money
+As your co-op starts up, it looks like everyone else: recruiting founders, landing your first sale, doing a little planning, and finding money
 
-If you find money, you'll incorporate, and you'll need to determine membership.
+If you find money, you'll incorporate, and you'll need to make some serious decisions
 
-This is the first point of difference: your team is creating a power structure. Let's hear some wisdom from a co-op member at MoV
+This is the first point of difference compared to a traditional business: rather than creating a founder-led dictatorship where you make random guesses and maybe they work out, you're creating a power structure to make random guesses together
 -->
+
 ---
 
 <!--
@@ -294,24 +295,33 @@ _paginate: false
 > Co-op developers, vendors, and technical assistance from peers can help build that knowledge.
 
 <!--
-This is Jeff Parr, who's been at Ministry of Velocity since 2015. Jeff's an entrepreneur with a few decades of experience as a founder
+This is Jeff Parr, who's been at Ministry of Velocity since 2015. Jeff's an entrepreneur with a few decades of experience, and he's been a mentor to me at various points
 
-Jeff's insight is important: the discomfort he's speaking to here is a power dynamic on your team, it exists today and it's the first hump for your group
+Jeff's insight is important: the discomfort he's speaking to here is that power dynamic on your team, it exists today and it's the first hump to get over
 
-Here's a really important insight that speaks to Principle 5, education: you can pay to get skills or an expert in the room, and this can save your group.
+Here's a really important insight that speaks to Principle 5, education: you can pay to get skills or an expert in the room, and this can save your co-op.
 -->
 
 ---
 
 <!-- _class: lead -->
 
-# Distributing Income
+# Patronage
 
 <!--
-Once you've decided who's a member, and how they enter the company, you'll need to have a conversation about how to distribute that income.
+One really important point here: we have a taboo around discussing money in our society. Violating that taboo is transgressive and uncomfortable.
+
+Patronage comes up a lot in co-op literature. It basically means profit sharing, split up by how much you worked for the co-op.
+
+In a just society, like the utopian village imagined by Robert Owen, patronage is the money that you own when your labor is sold on the market.
+
+Today, when you work, all the money you make belongs to your company's owner, who must pay you, and may decide to give you benefits and bonuses.
+
+In a cooperative, you are the owner, the money is yours. You have obligations to the co-op as an owner, so you'll reinvest some of it in the business. But you keep the rest.
 -->
 
 ---
+
 <!--
 _footer: Marilyn Scholl https://www.cdsus.coop/
 _paginate: false
@@ -322,36 +332,37 @@ _paginate: false
 <!--
 Let's start from the top by imagining a worker-owned hardware store.
 
-The hardware store makes $10,000 in a week, and the members collectively worked 100 hours.
+The hardware store makes $10,100 in a week, and the members collectively worked 90 hours.
 
-The members also made a set of paid gardening videos, and that brings in $100 in a week.
+The members made a set of paid gardening videos, and that brings in $100 in a week, which are kept by the store for operations.
 
-The $100 from the videos may be retained by the cooperative, perhaps to reinvest it in the company.
+The $10,000 amount gets divided into a collective amount used to reinvest in the company.
+
+The remainder is split up between members based on the number of hours they worked. Two members put in 40 hours each, so each person is allocated $4000, and the last person who worked 10 hours is allocated $1000.
+
+The lease, utilities, inventory, and point of sale system all cost money, and the members agree to pay that out of their income. The rest is theirs to take home.
 -->
 
 ---
 
 <!--
-_footer: USFWC
+_class: lead
 -->
 
-# Workplace Democracy
+# Democratic Workplace
 
 <!--
 For the audience:
 When was the last time you made a decision that affected your workplace?
 -->
 
-There are two types of activity when operating a business
-
-- _Governance_: setting policies to steer the ship
-- _Management_: implementing policies and fulfilling administrative tasks
-
 ---
+
 <!--
 _class: lead
 _paginate: false
 -->
+
 # Rae Bonfanti
 
 ![bg sepia:0.15 left:30%](assets/rae-bonfanti.png)
@@ -362,42 +373,43 @@ _paginate: false
 >
 > We managed our time with committees, where a smaller set of members handles one concern, then report to the board.
 
-<!-- it's a reasonable question for prospective co-op members
-to ask how much time they're expected to spend
+<!--
+This is Rae Bonfanti, my partner of 10 years, who was a founding member of the cooperative. Rae's an engineer with many years of nonprofit administration experience and an international development degree
 
-especially if you're coming from design or engineering,
-you'll spend more time on organizational matters
+Notice Rae's insight here: she's speaking to the efficiency of more structure. While it might seem counter-intuitive, the division of labor doesn't have to mean people lose power.
 
-there will be an adjustment period
-
-you'll participate in governance and management that will
-impact your work
-
-there's no getting around this, and the smaller the co-op
-the more work there is to do
-
-a committee is a group of members who specialize in one
-area of management concerns, like finance or HR
-
-I experienced this via sociocracy at MoV, this allows a
-small set of people to implement policy
-
-committee members have a duty to educate the larger body
-so they can make informed governance decisions
-
-members don't need to know everything or have a lot
-of knowledge in order to make decision
-
-committees at MoV were quite small, with an expert as
-chair and a learner in an administrative role
-
-this helps develop skills and capacity inside the co-op
-
-a third party can fulfill that expert capacity -->
+This speaks to the tension within Principle 2, Democratic Member Control. How will your democracy be shaped?
+-->
 
 ---
+
 <!--
-_footer: USFWC https://prezi.com/view/fRM13gLGqeieZmKcmMR6/
+_class: lead
+_footer: Source: USFWC
+-->
+
+# Operations
+
+__Governance__ sets strategic vision and policies
+
+__Management__ handles day-to-day operations and implements policy
+
+<!--
+There are two types of activity when operating a business, and they happen at different cadences
+
+While it's true that co-ops don't have bosses, they do need to have accountability structures.
+
+Governance is the activity that a C-suite at a traditional company might do: strategic planning, creating policies, setting goals
+
+Management is the activity that the middle management stack at a company performs: day-to-day operations, implementing policies, and in some cases coordination between groups
+
+While every co-op is structured differently, the USFWC has a handout identifying four main types
+-->
+
+---
+
+<!--
+_footer: Source: USFWC https://prezi.com/view/fRM13gLGqeieZmKcmMR6/
 -->
 
 # Collectives
@@ -406,10 +418,18 @@ _footer: USFWC https://prezi.com/view/fRM13gLGqeieZmKcmMR6/
 - All members are on the board
 - Collective or flat management structures
 
+<!--
+Collectives are where all members have equal governance power. This structure is usually found in small co-ops that aim for very little hierarchy.
+
+Collective management, especially in non-hierarchical work environments, require extra active empowerment, education and leadership development activities.
+
+Accountability is built-in but often needs attention (such as peer evaluations, running shared task lists, clear grievance procedures, etc.).
+-->
+
 ---
 
 <!--
-_footer: USFWC https://prezi.com/view/fRM13gLGqeieZmKcmMR6/
+_footer: Source: USFWC https://prezi.com/view/fRM13gLGqeieZmKcmMR6/
 -->
 
 # Sociocracy
@@ -419,10 +439,16 @@ _footer: USFWC https://prezi.com/view/fRM13gLGqeieZmKcmMR6/
 - Management is performed by circles
 - Decisions are made via modified consensus
 
+<!--
+Co-ops that use Sociocracy can include a representative governance circle that functions much like a board.
+
+Sociocracy uses a management structure that empowers circles (or committees) around specific work areas and uses general circles for dealing with overlap and inter-circle coordination.
+-->
+
 ---
 
 <!--
-_footer: USFWC https://prezi.com/view/fRM13gLGqeieZmKcmMR6/
+_footer: Source: USFWC https://prezi.com/view/fRM13gLGqeieZmKcmMR6/
 -->
 
 # Elected Board with Shared Governance
@@ -433,31 +459,52 @@ _footer: USFWC https://prezi.com/view/fRM13gLGqeieZmKcmMR6/
 - Managed by empowered committees
 - Decisions via majority vote, with high quorums or supermajority votes
 
+<!--
+Co-ops that have an elected board empower this governing body to differing degrees. Some co-op boards maintain significant shared governance with members often including monthly, quarterly or very active annual member meetings.
+
+Boards are often empowered to create policies, lead strategic planning, set an annual budget, coordinate between teams and oversee a general manager if the co-op has one.
+
+Quorum (the minimum number of members needed to be participating in a meeting or decision) is often set higher and supermajorities (more than 50%) are required when voting on certain decisions.
+-->
+
 ---
 
 <!--
-_footer: USFWC https://prezi.com/view/fRM13gLGqeieZmKcmMR6/
+_footer: Source: USFWC https://prezi.com/view/fRM13gLGqeieZmKcmMR6/
 -->
 
 # Elected Board
 
 - Members elect a board of directors
-- Members have little governance power after election
 - Members ratify annual member meetings
 - CEO and managers accountable to membership
 - Majority rule (i.e. Robert's Rules of Order)
 
+<!--
+Some co-ops are organized much closer to a traditional company, and members retain very little governance decision-making power beyond electing the board and ratifying major decisions at annual or special meetings.
+
+These co-ops usually have CEOs or managers that are hired, fired and overseen by the elected board, usually with a majority vote decision-making process.
+-->
 ---
 
 <!--
-_footer: McKenzie Jones https://www.linkedin.com/in/mckenzie-jones-2325488/
+_class: lead
+_footer: Source: McKenzie Jones https://www.linkedin.com/in/mckenzie-jones-2325488/
 -->
 
 # Breakout Sessions
 
-- Is this a board or management decision?
-- What checks and balances will ensure power is shared?
-- How will all members of the co-op have representation?
+Is this a board or management decision?
+
+What checks and balances will ensure power is shared?
+
+How will all members of the co-op have representation?
+
+<!--
+So now it's time to practice some democracy and act as a board. I've provided some decision matrix sheets for each group, along with three sample decisions for you to make. You don't have to choose those.
+
+After you're done, we'll go around to each group and ask for a presentation.
+-->
 
 ---
 
@@ -465,6 +512,7 @@ _footer: McKenzie Jones https://www.linkedin.com/in/mckenzie-jones-2325488/
 _class:
  - lead
  - invert
+_footer: Source: McKenzie Jones https://www.linkedin.com/in/mckenzie-jones-2325488/
 -->
 
 # Report Back
