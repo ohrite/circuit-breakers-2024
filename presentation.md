@@ -229,11 +229,7 @@ This picture, taken in 2016, shows some members of Cooperation Jackson, an examp
 
 ![bg right:50%](assets/03-the-seven-cooperative-principles.png)
 
-A cooperative is an autonomous __association__ of
-persons united voluntarily to meet their common
-economic, social and cultural needs and aspirations
-through a jointly-owned and democratically-controlled
-__enterprise__.
+A cooperative is an autonomous __association__ of persons united voluntarily to meet their common economic, social and cultural needs and aspirations through a jointly-owned and democratically-controlled __enterprise__.
 
 <!--
 Historian, cooperative scholar, and Thompson Rivers University president Dr. Brett Fairbairn argues that cooperatives have a dual nature as an association and an enterprise.
@@ -256,7 +252,7 @@ _paginate: false
 A co-op is a business, and it's important to explore what that means.
 
 For the audience:
-How many of you have started or run a business before?
+How many of you plan to start a co-op?
 -->
 
 ---
@@ -309,15 +305,9 @@ Here's a really important insight that speaks to Principle 5, education: you can
 # Patronage
 
 <!--
-One really important point here: we have a taboo around discussing money in our society. Violating that taboo is transgressive and uncomfortable.
-
 Patronage comes up a lot in co-op literature. It basically means profit sharing, split up by how much you worked for the co-op.
 
-In a just society, like the utopian village imagined by Robert Owen, patronage is the money that you own when your labor is sold on the market.
-
-Today, when you work, all the money you make belongs to your company's owner, who must pay you, and may decide to give you benefits and bonuses.
-
-In a cooperative, you are the owner, the money is yours. You have obligations to the co-op as an owner, so you'll reinvest some of it in the business. But you keep the rest.
+On the next slide, I've included a flowchart describing how patronage works. I'm not going to read this slide here at this talk, but you should look at it after the talk is over. It's a very thorough description of the way patronage is calculated.
 -->
 
 ---
@@ -374,11 +364,11 @@ _paginate: false
 > We managed our time with committees, where a smaller set of members handles one concern, then report to the board.
 
 <!--
-This is Rae Bonfanti, my partner of 10 years, who was a founding member of the cooperative. Rae's an engineer with many years of nonprofit administration experience and an international development degree
+This is Rae Bonfanti, an engineer at MoV who helped with the conversion
 
 Notice Rae's insight here: she's speaking to the efficiency of more structure. While it might seem counter-intuitive, the division of labor doesn't have to mean people lose power.
 
-This speaks to the tension within Principle 2, Democratic Member Control. How will your democracy be shaped?
+This speaks to the tension within Principle 2, Democratic Member Control.
 -->
 
 ---
@@ -397,13 +387,10 @@ __Management__ handles day-to-day operations and implements policy
 <!--
 There are two types of activity when operating a business, and they happen at different cadences
 
-While it's true that co-ops don't have bosses, they do need to have accountability structures.
+Governance might be strategic planning, creating policies, setting goals
 
-Governance is the activity that a C-suite at a traditional company might do: strategic planning, creating policies, setting goals
+Management might be paying bills, day-to-day operations tasks, implementing policies
 
-Management is the activity that the middle management stack at a company performs: day-to-day operations, implementing policies, and in some cases coordination between groups
-
-While every co-op is structured differently, the USFWC has a handout identifying four main types
 -->
 
 ---
@@ -414,16 +401,17 @@ _footer: Source: USFWC https://prezi.com/view/fRM13gLGqeieZmKcmMR6/
 
 # Collectives
 
+![bg right:40%](assets/collective.svg)
+
+- All members are on the governing board
 - Every member has equal governance power
-- All members are on the board
+- Every member handles some aspect of management
 - Collective or flat management structures
 
 <!--
-Collectives are where all members have equal governance power. This structure is usually found in small co-ops that aim for very little hierarchy.
+Collectives are where all members have equal governance power.Management in a collective requires a very engaged, empowered, educated, and developed membership. It's good when everyone's at the same level.
 
-Collective management, especially in non-hierarchical work environments, require extra active empowerment, education and leadership development activities.
-
-Accountability is built-in but often needs attention (such as peer evaluations, running shared task lists, clear grievance procedures, etc.).
+You can build accountability in a collective with peer evaluations, a shared backlog of tasks everyone works on, and a very clear grievance process.
 -->
 
 ---
@@ -434,15 +422,21 @@ _footer: Source: USFWC https://prezi.com/view/fRM13gLGqeieZmKcmMR6/
 
 # Sociocracy
 
+![bg right:30%](assets/sociocracy.svg)
+
 - Governance is performed by circles or committees for specific topics
 - Can include a governance circle
 - Management is performed by circles
 - Decisions are made via modified consensus
 
 <!--
-Co-ops that use Sociocracy can include a representative governance circle that functions much like a board.
+Co-ops that are too big for collective management may use a structure like Sociocracy.
 
-Sociocracy uses a management structure that empowers circles (or committees) around specific work areas and uses general circles for dealing with overlap and inter-circle coordination.
+A Sociocracy co-op focuses on clear responsibilities for members, where every work area is managed by an empowered circle (committee).
+
+Circles coordinate among themselves by sending representatives to a general circle.
+
+Governance might be handled by a governance circle that performs the same functions as a board.
 -->
 
 ---
@@ -453,11 +447,12 @@ _footer: Source: USFWC https://prezi.com/view/fRM13gLGqeieZmKcmMR6/
 
 # Elected Board with Shared Governance
 
+![bg right:30%](assets/elected-board.svg)
+
 - Members elect a board of directors
 - Members retain a form of membership-wide governance
 - Regular (monthly/quarterly/annual) member meetings
 - Managed by empowered committees
-- Decisions via majority vote, with high quorums or supermajority votes
 
 <!--
 Co-ops that have an elected board empower this governing body to differing degrees. Some co-op boards maintain significant shared governance with members often including monthly, quarterly or very active annual member meetings.
@@ -475,15 +470,17 @@ _footer: Source: USFWC https://prezi.com/view/fRM13gLGqeieZmKcmMR6/
 
 # Elected Board
 
+![bg right:30%](assets/traditional.svg)
+
 - Members elect a board of directors
-- Members ratify annual member meetings
+- Members ratify big decisions at member meetings
 - CEO and managers accountable to membership
 - Majority rule (i.e. Robert's Rules of Order)
 
 <!--
-Some co-ops are organized much closer to a traditional company, and members retain very little governance decision-making power beyond electing the board and ratifying major decisions at annual or special meetings.
+Some co-ops are organized much closer to a traditional company. These have CEOs or managers that are hired, fired and overseen by the elected board, usually with a majority vote decision-making process.
 
-These co-ops usually have CEOs or managers that are hired, fired and overseen by the elected board, usually with a majority vote decision-making process.
+Members have little governance power because they're not on the board or on empowered committees. However, they might ratify major decisions at an annual meeting.
 -->
 ---
 
@@ -501,7 +498,11 @@ What checks and balances will ensure power is shared?
 How will all members of the co-op have representation?
 
 <!--
-So now it's time to practice some democracy and act as a board. I've provided some decision matrix sheets for each group, along with three sample decisions for you to make. You don't have to choose those.
+Our goal today is that everyone here should be able to go online, start an LLC, and organize it as a co-op. Not that you would, or that you'd know what decisions you need to make, but that you could.
+
+Let's get you practiced up as a board.
+
+I've provided some decision matrix sheets for each group, along with three sample decisions for you to make. You have 15 minutes to discuss.
 
 After you're done, we'll go around to each group and ask for a presentation.
 -->
