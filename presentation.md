@@ -26,9 +26,11 @@ History, Discussion, and Toolkit
 <https://coopguide.org>
 
 <!--
-Thank you to Tech Workers Coalition for putting Circuit Breakers 2024 together, hope this is successful so we can see a 2025 edition
+Thank you to Tech Workers Coalition organizers for putting Circuit Breakers 2024 together, and thank all of you for showing up
 
-Thank you to all of you for being here, we've got so many important sessions happening this weekend, hopefully we can make a big impact
+Cooperatives are all of the things you can possibly do at a workplace: a mix of model UN, mission-driven organization, and capitalist enterprise. Then you play all of those things, all at once, on expert mode
+
+I've included a lot of resources on this slide deck, which is accessible at this URL. I've included some challenging reading and homework for you, all linked at the end in PDF and Excel format. I'm always here, one email away, ready to help.
 -->
 
 ---
@@ -43,42 +45,38 @@ You may individually express solidarity by paying the Yakult (Village) Land Tax:
 
 ---
 
+<!-- _paginate: false -->
+
 # Agenda
 
-1. History
-1. Definition
-1. Patronage
-1. Democracy
-1. Workshop
-1. Question Time
+![bg right:52%](assets/ball-rolling.svg)
+
+- [Cooperative History](#cooperative-history)
+- [Definition](#definition)
+- [Patronage](#patronage)
+- [Democratic Workplace](#democratic-workplace)
+- [Governance](#governance)
 
 ---
+
 <!--
-_backgroundImage: url("assets/mov-office.jpg")
+_backgroundImage: url(assets/mov-office.jpg)
 _paginate: false
+_class: invert
 -->
 
 ![width:10cm](assets/logo.svg)
 
----
-
-# Ministry of Velocity
-
-- Founded in 2013
-- Software and training services
-- Booked almost $13m in sales
-- Mostly public sector / NPO
-- Investigated co-op conversion in 2018
-- Conversion in 2022/23
-
 <!--
+This picture you see here is Ministry of Velocity in summer of 2018.
+
 In 2013, I co-founded Ministry of Velocity with a friend, and we freelanced underneath that label as a partnership
 
 My co-founder left in 2014, and I hired folks that I met through volunteering, client work, and in community
 
 We mainly do custom software, design, and project management in the public and nonprofit sector, and we've booked about $13m in sales so far
 
-In 2018, a couple dozen people worked at MoV, and I started investigating a co-op conversion with Project Equity
+By 2018, a couple dozen people worked at MoV, and I was investigating a co-op conversion with Project Equity
 
 In 2022, we formally began the process of conversion, and by 2023 MoV was a cooperative
 -->
@@ -94,7 +92,7 @@ _paginate: false
 
 <!--
 For the audience:
-* How many of you are familiar with co-ops?
+* How many of you consider yourself familiar with co-ops?
 * How many of you have been in a co-op in the past?
 * How many of you are in a worker-owned co-op today?
 -->
@@ -129,7 +127,7 @@ _class:
 ![bg](assets/seven-dials-gustave-dore.jpg)
 
 <!--
-The cooperative mass movement, however, is born in class struggle during the era of Dickens' Oliver Twist.
+The cooperative mass movement, however, is born at the same time as industrial capitalism, during the era of Dickens' Oliver Twist.
 
 In 1815, the British government's debt reaches a high of £1b at the end of the Napoleonic Wars.
 
@@ -176,13 +174,16 @@ _footer: diamond geezer https://www.flickr.com/photos/dgeezer/23746670698
 # Rochdale
 
 <!--
-Owen's talks inspired The Rochdale Pioneers.
+Picture of the Rochdale Pioneer store outside Manchester
 
-They started a successful series of businesses, starting with this store in Rochdale, which is still a location you can visit today, although the cooperative has moved to nearby Manchester.
+Owen's talks inspired The Rochdale Pioneers. The Pioneers were a mix of Chartist and Owenite activists, workers, and well-paid artisans.
 
-The Pioneers were a mix of Chartist and Owenite activists, workers, and well-paid artisans.
-
+They started a successful series of businesses, starting with this store in Rochdale, which is still a location you can visit today.
 Their model was wildly successful and hundreds of small cooperative stores popped up around northern England within a few years
+
+The Pioneers also planned an expansive, decades-long vision for growing their co-op store into a full utopian society, including multiple industrial sectors, housing owned by the community, and creating a college all owned by the community
+
+Although the housing didn't happen, and some of the industrial enterprises failed, the Co-Op College was finally established in 1919 and still exists today
 -->
 
 ---
@@ -201,10 +202,13 @@ _footer:
 ![bg](assets/sunkist-building.jpg)
 
 <!--
-This is a 1936 picture of the Sunkist building, headquarters of the California Fruit Growers Association, who established an alleged citrus monopoly in California
+The USDA heavily promoted co-ops in the 1920s. With the passage of the Capper-Volstead Act, cooperatives became an easy way to avoid antitrust laws
 
-The USDA heavily promoted co-ops in the 1920s. With the passage of the Capper-Volstead Act, cooperatives became an easy way to avoid antitrust laws.
+Remember how I introduced cooperatives as a bunch of people coming together, pooling resources, and acting in their own benefit? It turns out that's the definition of a cartel
+
+1936 picture of the Sunkist building, headquarters of the California Fruit Growers Association, who established an alleged citrus monopoly in California
 -->
+
 ---
 
 <!--
@@ -232,9 +236,9 @@ This picture, taken in 2016, shows some members of Cooperation Jackson, an examp
 A cooperative is an autonomous __association__ of persons united voluntarily to meet their common economic, social and cultural needs and aspirations through a jointly-owned and democratically-controlled __enterprise__.
 
 <!--
-Historian, cooperative scholar, and Thompson Rivers University president Dr. Brett Fairbairn argues that cooperatives have a dual nature as an association and an enterprise.
+Historian, cooperative scholar, and Thompson Rivers University president Dr. Brett Fairbairn says in "The Meaning of Rochdale: The Pioneers and Co-operative Principles" that cooperatives have a dual nature as an association and an enterprise
 
-While the enterprise aspect of cooperatives is similar to any business, the association aspect is a unique social formation that allows cooperatives to transcend profit-above-all logic and focus its energy on the community.
+While the enterprise aspect of cooperatives is similar to any business, the association aspect is a unique social formation that allows them to transcend profit-above-all logic and focus its energy on the community.
 -->
 
 ---
@@ -243,7 +247,6 @@ While the enterprise aspect of cooperatives is similar to any business, the asso
 _class:
   - invert
   - lead
-_paginate: false
 -->
 
 # The Enterprise
@@ -266,11 +269,11 @@ _class: lead
 <!--
 If you're coming into this room and don't know what to build, even if you're going to be offering hourly consulting, I recommend the Lean Startup book by Eric Ries
 
-As your co-op starts up, it looks like everyone else: recruiting founders, landing your first sale, doing a little planning, and finding money
+As a co-op starts up, it looks like everyone else: recruiting founders, landing its first sale, doing a little planning, and finding money
 
-If you find money, you'll incorporate, and you'll need to make some serious decisions
+If it finds money, the founders incorporate, and need to make some serious decisions
 
-This is the first point of difference compared to a traditional business: rather than creating a founder-led dictatorship where you make random guesses and maybe they work out, you're creating a power structure to make random guesses together
+This is the first point of difference compared to a traditional business: rather than creating a founder-led dictatorship where a 23 year old PhD dropout makes random guesses and maybe they work out, a co-op creates a democratic power structure and make random guesses together
 -->
 
 ---
@@ -328,9 +331,11 @@ The members made a set of paid gardening videos, and that brings in $100 in a we
 
 The $10,000 amount gets divided into a collective amount used to reinvest in the company.
 
-The remainder is split up between members based on the number of hours they worked. Two members put in 40 hours each, so each person is allocated $4000, and the last person who worked 10 hours is allocated $1000.
+The remainder is split up between members based on the number of hours they worked. Two members put in 40 hours each, so each person is allocated $4000, and the last person who worked 10 hours is allocated $1000. This money goes into an internal capital account.
 
-The lease, utilities, inventory, and point of sale system all cost money, and the members agree to pay that out of their income. The rest is theirs to take home.
+The lease, utilities, inventory, and point of sale system all cost money, and the members agree to pay that out of their capital accounts.
+
+The rest is for the members to either keep in their capital accounts at the co-op or take home with them.
 -->
 
 ---
@@ -387,10 +392,11 @@ __Management__ handles day-to-day operations and implements policy
 <!--
 There are two types of activity when operating a business, and they happen at different cadences
 
-Governance might be strategic planning, creating policies, setting goals
+Governance is what a board of directors or a C-suite does at a traditional company: strategic planning, creating policies, setting goals
 
-Management might be paying bills, day-to-day operations tasks, implementing policies
+Management is what the rest of the management stack does at a traditional company: day-to-day operations tasks, implementing policies, directing personnel to meet goals
 
+In a co-op, there are potentially no bosses, so members perform these functions in different configurations. The USFWC runs a co-op clinic that talks about four main types of co-op configuration
 -->
 
 ---
@@ -399,7 +405,7 @@ Management might be paying bills, day-to-day operations tasks, implementing poli
 _footer: Source: USFWC https://prezi.com/view/fRM13gLGqeieZmKcmMR6/
 -->
 
-# Collectives
+# Collective
 
 ![bg right:40%](assets/collective.svg)
 
@@ -482,30 +488,55 @@ Some co-ops are organized much closer to a traditional company. These have CEOs 
 
 Members have little governance power because they're not on the board or on empowered committees. However, they might ratify major decisions at an annual meeting.
 -->
+
 ---
 
 <!--
-_class: lead
+_class:
+- lead
+- invert
 _footer: Source: McKenzie Jones https://www.linkedin.com/in/mckenzie-jones-2325488/
 -->
 
-# Breakout Sessions
-
-Is this a board or management decision?
-
-What checks and balances will ensure power is shared?
-
-How will all members of the co-op have representation?
+# Governance
 
 <!--
-Our goal today is that everyone here should be able to go online, start an LLC, and organize it as a co-op. Not that you would, or that you'd know what decisions you need to make, but that you could.
+Now we're going to split into groups and put this theory into practice
 
-Let's get you practiced up as a board.
-
-I've provided some decision matrix sheets for each group, along with three sample decisions for you to make. You have 15 minutes to discuss.
-
-After you're done, we'll go around to each group and ask for a presentation.
+I took this exercise from a much longer workshop that McKenzie Jones runs when she does cooperative development
 -->
+
+---
+
+<!--
+_paginate: false
+-->
+
+![bg](assets/governance-matrix-complete.png)
+
+<!--
+Our goal today is that everyone here should be able to serve on a co-op board
+
+You're going to get into groups and fill out the worksheets in front of you
+
+I'll have sample decisions on the screen, or you can discuss your own
+
+It doesn't matter if you finish all of them, or you only talk through one
+
+Just keep it simple
+-->
+
+---
+
+<!--
+_footer: Source: McKenzie Jones https://www.linkedin.com/in/mckenzie-jones-2325488/
+-->
+
+# Sample Decisions
+
+1. Changing family leave policy
+1. Changing retirement benefits
+1. Hiring and firing
 
 ---
 
@@ -528,7 +559,8 @@ How is power shared?
 
 <!--
 _class:
- - lead
+- lead
+- invert
 -->
 
 # Questions and Answers
@@ -537,10 +569,10 @@ _class:
 
 # Community Connections
 
-- US Federation of Worker Cooperatives
+- US Federation of Worker Cooperatives (USFWC)
   <https://www.usworker.coop>
 
-- Democracy at Work Institute
+- Democracy at Work Institute (DAWI)
   <https://institute.coop>
 
 - Agaric Show and Tell
@@ -560,7 +592,7 @@ _paginate: false
 
 # Thank you
 
-![bg right:30%](assets/doc-ritezel.jpg)
+![bg right:40%](assets/doc-ritezel.jpg)
 
 ## <doc@minifast.co>
 
@@ -579,11 +611,15 @@ _paginate: false
 - Introduction to Sociocracy
   [Sociocracy for All](https://www.sociocracyforall.org/content/) · [PDF](assets/20241011-sociocracy-summary.pdf)
 
+- History of Cooperatives (Dr. Brett Fairbairn)
+  [YouTube](https://youtu.be/JLVbzxpCW7U) · [PDF](assets/20241012-brett-fairbairn-rochdale.pdf)
+
 ---
 
 # Workbook
 
-- [This Slide Deck](https://coopguide.org/presentation.pdf)
+- This Slide Deck
+  [PDF](https://coopguide.org/presentation.pdf)
 
 - Membership and Trial Period
   [Excel](assets/20241011-membership-tool-template.xlsx) · [Google Docs](https://docs.google.com/spreadsheets/d/11hNVvu2uucvnax5U7DlzmMgX1Eo6A2HHlBAhtLPKneo/edit)
